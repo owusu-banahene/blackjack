@@ -1,4 +1,7 @@
 # blackjack
 Practice project based on BlackJack
 
-Jason was here. 
+Project Team
+*Owen (owner)
+*Alice( collaborator)
+*Allen (Collaborator)
